@@ -18,8 +18,9 @@ Flood hazard map of the World - 50-year return period - [Source](https://data.jr
 | inland_continent_flood.h5 | [GDrive](https://drive.google.com/open?id=1Ksq-JRSUBF2Hot3gJuP5aDEcmytDrERA) | Latitude, longitude, and water level. Resolution is 30 arcseconds (approx. 1km). Cell values indicate water depth (in m). |
 
 
-Coordinates of Canadian provinces
+Coordinates of Canadian provinces (Perimeter)
 
 |      Dataset name      |                                     Link                                     | Description                                              |
 | :--------------------: | :--------------------------------------------------------------------------: | :--------------------------------------------------------|
-|qc_coordinates.xml | [GDrive](https://drive.google.com/open?id=1DGhxNEUQb8gCSu9RmI3ZGbr0C64d2GJz) | Coordinates of Quebec (segmentation). |
+|qc_coordinates.xml | [GDrive](https://drive.google.com/open?id=1DGhxNEUQb8gCSu9RmI3ZGbr0C64d2GJz) | Quebec |
+|alberta_coordinates.csv | [GDrive](https://drive.google.com/open?id=1V-hcrhKTH2bHqkr717bh9qWAFg4jIlL7) | Alberta |
