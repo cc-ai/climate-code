@@ -4,4 +4,16 @@
 
 `preprocess_geo_data` contains notebooks used to preprocess the data quickly.
 
-Models to be updated.
+Models to be uploaded.
+
+## Dependencies
+
+* `numpy`
+* `pandas`
+* `netCDF4`
+* `keras`
+* `tensorflow-gpu`
+* `statsmodels`
+* `scikit-learn`
+* `cftime`
+* `matplotlib`
