@@ -11,6 +11,8 @@
 * `numpy`
 * `pandas`
 * `netCDF4`
+* `rasterio`
+* `pyptoj`
 * `keras`
 * `tensorflow-gpu`
 * `statsmodels`
