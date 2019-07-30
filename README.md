@@ -4,7 +4,7 @@
 
 `preprocess_geo_data` contains notebooks used to preprocess the data quickly.
 
-Models to be uploaded.
+`notebooks` contains draft ipython notebooks of models and analyses.
 
 ## Dependencies
 
