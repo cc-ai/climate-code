@@ -20,3 +20,5 @@
 * `cftime`
 * `matplotlib`
 * `pmdarima`
+* `plotly`
+* `cufflinks`
