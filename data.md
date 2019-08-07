@@ -7,7 +7,7 @@ Arsenault, R., Bazile, R., Dallaire-Ouellet, C. and Brissette, F. (2016). CANOPE
 
 |      Dataset name      |                                     Link                                     | Description                                                                                                                                     |
 | :--------------------: | :--------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------- |
-|preprocessed_canopex_envcan.tar.gz | [GDrive](https://drive.google.com/open?id=19ACDod-pNQd63KlFPka5h_D_0WQbxmqk) | 1: date (yyyymmdd). 2: mean areal precipitation (mm). 3: climatic potential evaporation. 4: daily streamflow discharge (mm). 5: daily maximum air temperature (Celsius). 6: daily minimum air temperature (Celsius). 7: Latitude. 8: Longitude. |
+|preprocessed_canopex_envcan.tar.gz | [GDrive](https://drive.google.com/open?id=19ACDod-pNQd63KlFPka5h_D_0WQbxmqk) | CSV files preprocessed with [all_canopex_files.ipynb](https://github.com/cc-ai/climate-code/blob/master/preprocess_geo_data/all_canopex_files.ipynb) and [add_lat_lon.ipynb](https://github.com/cc-ai/climate-code/blob/master/preprocess_geo_data/add_lat_lon.ipynb). 1: date (yyyymmdd). 2: mean areal precipitation (mm). 3: climatic potential evaporation. 4: daily streamflow discharge (mm). 5: daily maximum air temperature (Celsius). 6: daily minimum air temperature (Celsius). 7: Latitude. 8: Longitude. |
 
 Sea level dataset - [Source](http://data.jrc.ec.europa.eu/dataset/jrc-liscoast-10012)
 
