@@ -1,4 +1,4 @@
-# Deep learning for flood forecasting
+# Time series forecasting for rivers' discharge
 
 `data` contains a summary of pre and post-processed datasets and links for download.
 
