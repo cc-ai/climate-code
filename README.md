@@ -5,6 +5,8 @@ The streamflow (or discharge) of rivers is strongly related to flooding. We aim 
 
 The data comes from the CANOPEX dataset and combines streamflow discharge combined with gridded climate data (temperature and precipitation) of 10 x 10m resolution.
 
+We also make many climate datasets machine learning-friendly and share them in `data.md`.
+
 ## Structure
 [`data.md`](https://github.com/cc-ai/climate-code/blob/master/data.md) contains a summary of pre and post-processed datasets and links for download.
 
