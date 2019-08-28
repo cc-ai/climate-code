@@ -3,7 +3,7 @@
 ## Motivation
 The streamflow (or discharge) of rivers is strongly related to flooding. We aim to make a long-term prediction (for 2050) of rivers around Canada, using different machine learning/statistical models, such as ARIMA and local linear regression.
 
-The data comes from the CANOPEX dataset and combines streamflow discharge combined with gridded climate data (temperature and precipitation) of 10 x 10m resolution.
+The data comes from the CANOPEX dataset and combines streamflow discharge combined with gridded climate data (temperature and precipitation) of 10 x 10m resolution. Contains data from 1968 to 2012.
 
 We also make many climate datasets machine learning-friendly and share them in `data.md`.
 
