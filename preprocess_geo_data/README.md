@@ -1,4 +1,4 @@
-This folder contains preprocessing notebooks used to convert the data files presented  [here](https://github.com/cc-ai/climate-code/blob/master/data.md)to easier-to-work-with formats (CSV and HDF5) for further analysis.
+This folder contains preprocessing notebooks used to convert the data files presented  [here](https://github.com/cc-ai/climate-code/blob/master/data.md) to easier-to-work-with formats (CSV and HDF5) for further analysis.
 
 # Notebooks
 
