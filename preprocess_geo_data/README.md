@@ -1,11 +1,11 @@
-This folder contains preprocessing notebooks used to convert the data files presented  [here] (https://github.com/cc-ai/climate-code/blob/master/data.md)to easier-to-work-with formats (CSV and HDF5) for further analysis.
+This folder contains preprocessing notebooks used to convert the data files presented  [here](https://github.com/cc-ai/climate-code/blob/master/data.md)to easier-to-work-with formats (CSV and HDF5) for further analysis.
 
 # Notebooks
 
 
 ## CANOPEX dataset 
 Arsenault, R., Bazile, R., Dallaire-Ouellet, C. and Brissette, F. (2016). CANOPEX: A Canadian hydrometeorological watershed database. Hydrological Processes, 30(15), 2734-2736. doi:10.1002/hyp.10880.
-The raw datasets that were preprocessed are the ASCII files that can be found [here] (http://canopex.etsmtl.net/) : [watershed boundaries (lat-lont)](https://drive.google.com/open?id=0B60Gr-Pmo9yKRVBvVmRoQnJUeVE), [ENVCAN-ASCII watershed data](https://drive.google.com/open?id=0B60Gr-Pmo9yKbGdQQnBrYjE0Q2M), [NRCAN-ASCII watershed data](https://drive.google.com/open?id=0B60Gr-Pmo9yKeXkzUmN4c2JaR2s).
+The raw datasets that were preprocessed are the ASCII files that can be found [here](http://canopex.etsmtl.net/): [watershed boundaries (lat-lont)](https://drive.google.com/open?id=0B60Gr-Pmo9yKRVBvVmRoQnJUeVE), [ENVCAN-ASCII watershed data](https://drive.google.com/open?id=0B60Gr-Pmo9yKbGdQQnBrYjE0Q2M), [NRCAN-ASCII watershed data](https://drive.google.com/open?id=0B60Gr-Pmo9yKeXkzUmN4c2JaR2s).
 The ENVCAN-ASCII and NRCAN-ASCII data is composed of multiple files, one for each river (station).
 * `all_canopex_files.ipynb` Fixes all the ASCII CANOPEX files by inserting spaces correctly in the ASCII files (where storage is poor and hard to retrieve). Saves files to CSV.
 * `add_lat_lon.ipynb`: Combines latitude and longitude from the watershed boundaries file to the CANOPEX ENVCAN and NRCAN dataframe files containing the main data.
