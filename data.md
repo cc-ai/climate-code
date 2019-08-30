@@ -1,6 +1,8 @@
 # Data
 
-Datasets that I preprocessed.
+This file contains links and descriptions to datasets that I preprocessed with notebooks presented [here](https://github.com/cc-ai/climate-code/blob/master/preprocess_geo_data/README.md).
+
+The same files are located in the Mila cluster at `/network/tmp1/ccai/climate/data/canopex`.
 
 ## Canopex
 [Source](http://canopex.etsmtl.net/).
