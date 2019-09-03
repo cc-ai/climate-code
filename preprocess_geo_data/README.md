@@ -18,7 +18,7 @@ For plotting maps.
 
 ## Inland flood hazard map
 Dottori, Francesco; Alfieri, Lorenzo; Salamon, Peter; Bianchi, Alessandra; Feyen, Luc; Hirpa, Feyera (2016):  Flood hazard map of the World - 50-year return period. European Commission, Joint Research Centre (JRC) [Dataset] 
-* `inland_lat_lon.ipynb`: Converts the georiff image file to HDF5. Gives the water level as a function of latitude and longitude.
+* `inland_lat_lon.ipynb`: Converts the geotiff image file to HDF5. Gives the water level as a function of latitude and longitude.
 
 
 ## Sea level dataset
