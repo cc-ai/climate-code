@@ -20,7 +20,8 @@ We also make many climate datasets machine learning-friendly and share them in `
 * `pandas`
 * `netCDF4`
 * `rasterio`
-* `pyptoj`
+* `jupyterlab`
+* `pyproj`
 * `keras`
 * `tensorflow-gpu`
 * `statsmodels`
