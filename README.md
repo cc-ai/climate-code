@@ -16,6 +16,8 @@ We also make many climate datasets machine learning-friendly and share them in `
 
 ## Dependencies
 
+[`env.sh`](https://github.com/cc-ai/climate-code/blob/master/env.sh) creates a conda virtual environment and installs all the dependencies. Read the file before executing, you need to install miniconda3.
+
 * `numpy`
 * `pandas`
 * `netCDF4`
